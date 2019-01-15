@@ -1,0 +1,13 @@
+{  
+  "0": {
+  	"question" : "En février prochain, le Paris Saint-Germain va-t-il se qualifier pour les quarts de finale de la Ligue des Champions face à Manchester United ?",
+  	"reponses" :
+    	{  
+      		"Oui" : 73,
+      		"Non" : 54,
+      		"NSP" : 28
+    	},
+    "total" : 155
+  	}
+}
+  
